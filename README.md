@@ -1,6 +1,8 @@
 # flight-Data
 a simple web app that pulls flight data from an API and puts it in a database
 
+Intro To Databases is the propername for this directory.  This will hold all of the modules I create for this class/project
+
 uses MVC design pattern to keep everything ecanpsulated
 uses a singleton pattern for database security
 uses prepared statements for sql security
